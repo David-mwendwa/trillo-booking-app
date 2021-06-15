@@ -55,3 +55,25 @@ body {
   background-color: #fff;
   background-color: orangered;
   flex: 1; }
+
+/********* LOGO *********/
+.logo {
+  height: 3.25rem; }
+
+/********* SEARCH *********/
+.search__icon {
+  height: 2rem;
+  width: 2rem; }
+
+/********* USER NAV *********/
+.user-nav__icon-box {
+  height: 2.2rem;
+  width: 2rem; }
+
+.user-nav__icon {
+  height: 2.25rem;
+  width: 2.25rem; }
+
+.user-nav__user-photo {
+  height: 3.75rem;
+  border-radius: 50%; }
